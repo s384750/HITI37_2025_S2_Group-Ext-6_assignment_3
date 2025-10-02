@@ -8,7 +8,7 @@ from oop_explanation import get_oop_info
 
 # Create main window
 root = Tk()
-root.title("GUI")
+root.title("HIT137 Group 6 Tkinter AI GUI")
 root.resizable(False, False)
 
 menubar = Menu(root)
@@ -159,3 +159,4 @@ Label(root, text="Notes: you have to load Model before use").pack(side=LEFT, fil
 
 # Run GUI loop
 root.mainloop()
+
